@@ -9,7 +9,7 @@ import time
 from threading import Timer
 
 # insert your Telegram bot token here
-bot = telebot.TeleBot('7344990517:AAF5lV3qv8N1ys7MTOnZ4xrJ8Y5CCoLakSM')
+bot = telebot.TeleBot('7350420771:AAFQJHb8Gq-9YTIcqq1iX7Bsnyg_44r-aWg')
 
 # Admin user IDs
 admin_id = ["6022173368"]
